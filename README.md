@@ -44,12 +44,19 @@
 
 ## Project Insights
 1.The project successfully identified high-demand and fast-selling grocery products using sales trend analysis and SQL queries. This helped understand customer purchasing behavior and product demand patterns.
+
 2.Inventory monitoring analysis detected low-stock products and reorder requirements effectively. The dashboard improved stock visibility and helped reduce inventory shortages.
+
 3.Category-wise and department-wise sales analysis provided better understanding of product performance and revenue contribution across different retail sections.
+
 4.Monthly sales analysis and forecasting trends helped identify sales growth patterns and seasonal demand changes in the retail business.
+
 5.KPI dashboards, pivot tables, and SQL analytical reports improved business decision-making by providing quick and interactive retail insights.
+
 6.Profit analysis and discount analysis helped evaluate product profitability and promotional sales performance for better inventory planning.
+
 7.Store-wise sales analysis improved branch performance monitoring and helped compare sales revenue across different store locations.
+
 8.The project demonstrated how Excel and SQL can be used together for real-time retail sales analysis, demand forecasting, and inventory optimization.
 
 ## Conclusion
