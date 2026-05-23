@@ -11,7 +11,7 @@
  
 5. The project supports shop owners in improving sales performance, reducing inventory loss, and making better business decisions.
    ## Datasets
-   - < a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/FINAL%20DASHBOARD%20MINI1.xlsx"> Data set</a>
+   https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/FINAL%20DASHBOARD%20MINI1.xlsx"> Data set
 
 ## question of KPIs
 1. What are the KPIs used in your dashboard?
@@ -31,7 +31,8 @@
 15. How does the dashboard display KPI metrics interactively?
 
 ## Dashboard Interaction
-< a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/screenshot.pdf"> View Dashboard</a>
+
+https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/Screenshot%202026-05-22%20210549.png
 
 ## Process
 1. Collected the Favorita Grocery Sales Forecasting dataset and loaded the data into Excel for preprocessing and analysis. Cleaned the dataset by removing duplicate values, handling missing data, and formatting columns properly for accurate analysis.
