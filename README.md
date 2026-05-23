@@ -8,6 +8,6 @@
 5. The project supports shop owners in improving sales performance, reducing inventory loss, and making better business decisions.
    
 #Datasets
--< a href="https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data">
+-< a href="https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data"/a>
 
--< a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/screenshot.pdf">
+-< a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/screenshot.pdf"/a>
