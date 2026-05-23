@@ -6,5 +6,8 @@
 3. It identifies high-demand products, low-stock items, and reorder requirements through data analysis.
 4. Interactive dashboards, pivot tables, and SQL queries are used to generate business insights and sales reports.
 5. The project supports shop owners in improving sales performance, reducing inventory loss, and making better business decisions.
+   
 #Datasets
 •	https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
+
+https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/screenshot.pdf
