@@ -11,7 +11,7 @@
  
 5. The project supports shop owners in improving sales performance, reducing inventory loss, and making better business decisions.
    ## Datasets
-   < a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/FINAL%20DASHBOARD%20MINI1.xlsx">Dataset</a>
+   - < a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/FINAL%20DASHBOARD%20MINI1.xlsx"> Data set</a>
 
 ## question of KPIs
 1. What are the KPIs used in your dashboard?
