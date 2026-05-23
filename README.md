@@ -26,4 +26,5 @@
 14. Why are KPIs important in retail analytics?
 15. How does the dashboard display KPI metrics interactively?
 
-
+## Dashboard Interaction
+< a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/screenshot.pdf"> View Dashboard</a>
