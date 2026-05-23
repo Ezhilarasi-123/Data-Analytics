@@ -52,6 +52,8 @@
 
 ## Dashboard
 
+https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/Screenshot%202026-05-22%20210549.png
+
 
 ## Project Insights
 1.The project successfully identified high-demand and fast-selling grocery products using sales trend analysis and SQL queries. This helped understand customer purchasing behavior and product demand patterns.
