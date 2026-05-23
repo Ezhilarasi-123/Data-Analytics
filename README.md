@@ -2,12 +2,16 @@
 # Project Objectives
 
 1. The main objective of this project is to analyze retail grocery sales data using Excel and SQL.
+
 2. The project helps forecast product demand and improve inventory management in retail stores.
+
 3. It identifies high-demand products, low-stock items, and reorder requirements through data analysis.
+
 4. Interactive dashboards, pivot tables, and SQL queries are used to generate business insights and sales reports.
+ 
 5. The project supports shop owners in improving sales performance, reducing inventory loss, and making better business decisions.
    ## Datasets
--< a href="https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data"/a>
+   < a href="https://github.com/Ezhilarasi-123/Data-Analytics/blob/main/FINAL%20DASHBOARD%20MINI1.xlsx">Dataset</a>
 
 ## question of KPIs
 1. What are the KPIs used in your dashboard?
@@ -31,12 +35,19 @@
 
 ## Process
 1. Collected the Favorita Grocery Sales Forecasting dataset and loaded the data into Excel for preprocessing and analysis. Cleaned the dataset by removing duplicate values, handling missing data, and formatting columns properly for accurate analysis.
+
 2. Created additional columns such as Total Sales, Profit, Remaining Stock, Discount Percentage, and Reorder Status using Excel formulas. These calculated columns improved inventory monitoring and sales performance analysis.
+ 
 3. Formatted the date column for monthly and daily sales analysis. Applied Excel formulas and conditional formatting techniques to identify low-stock products and reorder requirements automatically.
+ 
 4. Created pivot tables for category-wise sales, department-wise sales, monthly sales trends, and high-demand product analysis. Pivot analysis helped summarize large retail datasets efficiently.
+
 5. Developed charts and visualizations including bar charts, pie charts, and line charts to represent sales trends, product performance, and inventory insights visually.
+ 
 6. Designed interactive KPI dashboard cards for Total Sales, Total Profit, Total Quantity Sold, High Demand Products, Low Stock Products, and Revenue Analysis using Excel dashboard features.
+ 
 7. Imported the cleaned dataset into MySQL Workbench and created database tables for sales and inventory analysis. Executed SQL queries for total revenue, average sales, reorder analysis, product ranking, and inventory monitoring.
+   
 8. Generated final business insights using Excel dashboards and SQL query outputs to improve demand forecasting, inventory optimization, sales analysis, and retail business decision-making.
 
 ## Dashboard
@@ -61,10 +72,17 @@
 
 ## Conclusion
 1.The project successfully analyzed the Favorita Grocery Sales dataset using Excel and MySQL for retail sales forecasting and inventory optimization.
+
 2.Data cleaning, preprocessing, dashboard creation, and SQL query analysis were implemented effectively to generate meaningful business insights.
+
 3.The system identified high-demand products, low-stock items, reorder requirements, profit trends, and monthly sales performance accurately.
+
 4.Interactive dashboards, KPI cards, pivot tables, and SQL reports improved data visualization and retail decision-making processes.
+
 5.The project helped demonstrate how data analytics techniques can optimize inventory management and improve retail business efficiency.
+
 6.Excel formulas and SQL analytical queries simplified large-scale retail data processing and improved reporting accuracy.
+
 7.The system supports shop owners in reducing inventory loss, improving product availability, and increasing customer satisfaction.
+
 8.Overall, the project proved that retail demand forecasting and inventory optimization can be effectively achieved using Excel dashboards and SQL-based analytical techniques.
